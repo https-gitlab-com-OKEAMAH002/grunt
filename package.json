@@ -49,7 +49,7 @@
     "iconv-lite": "~0.6.3",
     "js-yaml": "~3.14.0",
     "minimatch": "~3.0.4",
-    "nopt": "~3.0.6"
+    "nopt": "~7.2.1"
   },
   "devDependencies": {
     "difflet": "~1.0.1",
