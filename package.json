@@ -37,7 +37,7 @@
     "tool"
   ],
   "dependencies": {
-    "dateformat": "~4.6.2",
+    "dateformat": "~5.0.3",
     "eventemitter2": "~0.4.13",
     "exit": "~0.1.2",
     "findup-sync": "~5.0.0",
